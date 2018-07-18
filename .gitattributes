@@ -1,0 +1,4 @@
+work/* filter=lfs diff=lfs merge=lfs -text
+work/firststage filter=lfs diff=lfs merge=lfs -text
+work/secondstage filter=lfs diff=lfs merge=lfs -text
+data/** filter=lfs diff=lfs merge=lfs -text
